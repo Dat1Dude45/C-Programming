@@ -39,7 +39,7 @@ int main() {
 	}
 	sleep(advTime);
 
-	cout << "\nYou leave you the home you've always known, and you trek the unknown...\n\n\n\n";
+	cout << "\nYou leave the home you've always known, and you trek the unknown...\n\n\n\n";
 	sleep(advTime);
 
 
